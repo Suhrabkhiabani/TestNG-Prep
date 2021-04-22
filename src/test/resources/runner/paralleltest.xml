@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Hotel Website Data Driven Framework">
+	<listeners>
+		<listener class-name="utilities.TestNGListeners"></listener>
+	</listeners>
+	<test name=" Hotel Login 
+	Test">
+	<parameter name = "userName" value = "student@test.com"/>
+	<parameter name = "password" value ="welcome1"/>
+ 		<classes>
+			<class name="tests.HotelLoginTest" />
+		</classes>
+	</test>
+</suite>

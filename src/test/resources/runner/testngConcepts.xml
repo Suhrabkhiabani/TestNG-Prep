@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG Concepts">
+	<!--test name=" TestNG Parameters">
+	<parameter  name ="firstName" value ="ahmad"/>
+	<parameter  name ="lastName" value ="shaiq"/>
+		<classes>
+			<class name="testNG.TestNGparameters" />
+		</classes>
+	</test>-->
+	
+	<test name = "Parallel Execution" parallel = "methods" thread-count = "2">
+	<classes>
+	<class name = "testNG.ParallelExecution"/>
+	</classes>
+	</test>
+	
+</suite>

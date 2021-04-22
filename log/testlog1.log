@@ -1,0 +1,105 @@
+2021-02-22 20:09:47,667 [main] INFO logger_File - Start of Execution
+2021-02-22 20:09:47,734 [main] INFO logger_File - Test Execution Started
+2021-02-22 20:09:47,765 [main] INFO logger_File - Test was passed successfully
+2021-02-22 20:09:47,766 [main] INFO logger_File - method name: testFive
+2021-02-22 20:09:47,780 [main] INFO logger_File - Test Execution Started
+2021-02-22 20:09:47,782 [main] INFO logger_File - Test was passed successfully
+2021-02-22 20:09:47,783 [main] INFO logger_File - method name: testFour
+2021-02-22 20:09:47,786 [main] INFO logger_File - Test Execution Started
+2021-02-22 20:09:47,789 [main] INFO logger_File - Test was passed successfully
+2021-02-22 20:09:47,789 [main] INFO logger_File - method name: testThree
+2021-02-22 20:09:47,827 [main] INFO logger_File - End of Execution
+2021-02-23 20:30:09,826 [main] INFO logger_File - Start of Execution
+2021-02-23 20:30:24,242 [main] INFO logger_File - Broswer opened successfully
+2021-02-23 20:30:24,245 [main] INFO logger_File - Test Execution Started
+2021-02-23 20:30:27,436 [main] INFO logger_File - Test was passed successfully
+2021-02-23 20:30:27,442 [main] INFO logger_File - method name: loginToHotelTest
+2021-02-23 20:30:28,441 [main] INFO logger_File - Broswer Closed
+2021-02-23 20:30:28,473 [main] INFO logger_File - End of Execution
+2021-02-23 20:35:03,797 [main] INFO logger_File - Start of Execution
+2021-02-23 20:35:10,297 [main] INFO logger_File - Broswer opened successfully
+2021-02-23 20:35:10,298 [main] INFO logger_File - Test Execution Started
+2021-02-23 20:35:12,647 [main] INFO logger_File - Test was passed successfully
+2021-02-23 20:35:12,650 [main] INFO logger_File - method name: loginToHotelTest
+2021-02-23 20:35:13,449 [main] INFO logger_File - Broswer Closed
+2021-02-23 20:35:13,482 [main] INFO logger_File - End of Execution
+2021-02-23 21:31:32,425 [main] INFO logger_File - Start of Execution
+2021-02-23 21:31:40,103 [main] INFO logger_File - Broswer opened successfully
+2021-02-23 21:31:40,104 [main] INFO logger_File - Test Execution Started
+2021-02-23 21:31:59,872 [main] INFO logger_File - Test was failed
+2021-02-23 21:31:59,873 [main] INFO logger_File - method name: loginToHotelTest
+2021-02-23 21:31:59,902 [main] INFO logger_File - Test was failed
+2021-02-23 21:31:59,912 [main] INFO logger_File - method name: loginToHotelTest
+2021-02-23 21:32:00,012 [main] INFO logger_File - End of Execution
+2021-02-23 21:34:33,852 [main] INFO logger_File - Start of Execution
+2021-02-23 21:34:40,096 [main] INFO logger_File - Broswer opened successfully
+2021-02-23 21:34:40,097 [main] INFO logger_File - Test Execution Started
+2021-02-23 21:34:59,975 [main] INFO logger_File - Test was failed
+2021-02-23 21:34:59,979 [main] INFO logger_File - method name: loginToHotelTest
+2021-02-23 21:35:00,009 [main] INFO logger_File - Test was failed
+2021-02-23 21:35:00,010 [main] INFO logger_File - method name: loginToHotelTest
+2021-02-23 21:35:00,119 [main] INFO logger_File - End of Execution
+2021-02-23 21:39:55,573 [main] INFO logger_File - Start of Execution
+2021-02-23 21:40:01,137 [main] INFO logger_File - Broswer opened successfully
+2021-02-23 21:40:01,138 [main] INFO logger_File - Test Execution Started
+2021-02-23 21:40:30,320 [main] INFO logger_File - Test was failed
+2021-02-23 21:40:30,322 [main] INFO logger_File - method name: loginToHotelTest
+2021-02-23 21:40:31,381 [main] INFO logger_File - Broswer Closed
+2021-02-23 21:40:31,406 [main] INFO logger_File - End of Execution
+2021-02-25 18:48:58,188 [main] INFO logger_File - Start of Execution
+2021-02-25 18:49:06,372 [main] INFO logger_File - Broswer opened successfully
+2021-02-25 18:49:06,374 [main] INFO logger_File - Test Execution Started
+2021-02-25 18:49:19,023 [main] INFO logger_File - Test was failed
+2021-02-25 18:49:19,024 [main] INFO logger_File - method name: loginToHotelTest
+2021-02-25 18:49:19,050 [main] INFO logger_File - Test was failed
+2021-02-25 18:49:19,052 [main] INFO logger_File - method name: loginToHotelTest
+2021-02-25 18:49:19,110 [main] INFO logger_File - End of Execution
+2021-02-25 19:04:51,945 [main] INFO logger_File - Start of Execution
+2021-02-25 19:04:52,010 [main] INFO logger_File - End of Execution
+2021-02-25 19:05:34,157 [main] INFO logger_File - Start of Execution
+2021-02-25 19:05:34,200 [main] INFO logger_File - End of Execution
+2021-02-25 19:06:08,073 [main] INFO logger_File - Start of Execution
+2021-02-25 19:06:08,141 [main] INFO logger_File - End of Execution
+2021-02-25 19:06:52,519 [main] INFO logger_File - Start of Execution
+2021-02-25 19:06:58,747 [TestNG-test= Hotel Login Test-1] INFO logger_File - Browser opened Successfully
+2021-02-25 19:06:58,765 [TestNG-test= Hotel Login Test-1] INFO logger_File - Test Execution Started
+2021-02-25 19:06:59,202 [TestNG-test= Hotel Login Test-2] INFO logger_File - Browser opened Successfully
+2021-02-25 19:06:59,207 [TestNG-test= Hotel Login Test-2] INFO logger_File - Test Execution Started
+2021-02-25 19:06:59,974 [TestNG-test= Hotel Login Test-2] INFO logger_File - Test was failed
+2021-02-25 19:06:59,975 [TestNG-test= Hotel Login Test-2] INFO logger_File - method name: loginToHotelTest
+2021-02-25 19:07:00,572 [TestNG-test= Hotel Login Test-1] INFO logger_File - Test was failed
+2021-02-25 19:07:00,573 [TestNG-test= Hotel Login Test-1] INFO logger_File - method name: loginToHotelTest
+2021-02-25 19:07:01,084 [TestNG-test= Hotel Login Test-2] INFO logger_File - Browser closed
+2021-02-25 19:07:04,662 [TestNG-test= Hotel Login Test-1] INFO logger_File - Test was failed
+2021-02-25 19:07:04,664 [TestNG-test= Hotel Login Test-1] INFO logger_File - method name: loginToHotelTest
+2021-02-25 19:07:04,724 [main] INFO logger_File - End of Execution
+2021-02-25 19:10:59,784 [main] INFO logger_File - Start of Execution
+2021-02-25 19:11:05,770 [TestNG-test= Hotel Login Test-2] INFO logger_File - Browser opened Successfully
+2021-02-25 19:11:05,777 [TestNG-test= Hotel Login Test-2] INFO logger_File - Test Execution Started
+2021-02-25 19:11:08,442 [TestNG-test= Hotel Login Test-1] INFO logger_File - Browser opened Successfully
+2021-02-25 19:11:08,444 [TestNG-test= Hotel Login Test-1] INFO logger_File - Test Execution Started
+2021-02-25 19:11:09,683 [TestNG-test= Hotel Login Test-1] INFO logger_File - Test was failed
+2021-02-25 19:11:09,685 [TestNG-test= Hotel Login Test-1] INFO logger_File - method name: loginToHotelTest
+2021-02-25 19:11:10,699 [TestNG-test= Hotel Login Test-2] INFO logger_File - Test was failed
+2021-02-25 19:11:10,700 [TestNG-test= Hotel Login Test-2] INFO logger_File - method name: loginToHotelTest
+2021-02-25 19:11:10,703 [TestNG-test= Hotel Login Test-1] INFO logger_File - Browser closed
+2021-02-25 19:11:10,705 [TestNG-test= Hotel Login Test-2] INFO logger_File - Test was failed
+2021-02-25 19:11:10,705 [TestNG-test= Hotel Login Test-2] INFO logger_File - method name: loginToHotelTest
+2021-02-25 19:11:10,753 [main] INFO logger_File - End of Execution
+2021-03-11 11:41:14,987 [main] INFO logger_File - Start of Execution
+2021-03-11 11:41:15,033 [main] INFO logger_File - End of Execution
+2021-03-11 11:48:17,970 [main] INFO logger_File - Start of Execution
+2021-03-11 11:48:18,037 [main] INFO logger_File - End of Execution
+2021-03-11 11:50:16,848 [main] INFO logger_File - Start of Execution
+2021-03-11 11:50:16,901 [main] INFO logger_File - End of Execution
+2021-03-11 11:54:42,837 [main] INFO logger_File - Broswer opened successfully
+2021-03-11 11:56:39,640 [main] INFO logger_File - Broswer opened successfully
+2021-03-11 11:56:43,524 [main] INFO logger_File - Broswer Closed
+2021-03-11 11:57:32,679 [TestNG-test= Hotel Login Test-1] INFO logger_File - Broswer opened successfully
+2021-03-11 11:57:35,770 [TestNG-test= Hotel Login Test-1] INFO logger_File - Broswer Closed
+2021-03-11 11:58:01,405 [TestNG-test= Hotel Login Test-1] INFO logger_File - Broswer opened successfully
+2021-03-11 11:58:04,525 [TestNG-test= Hotel Login Test-1] INFO logger_File - Broswer Closed
+2021-03-11 12:03:40,124 [main] INFO logger_File - Broswer opened successfully
+2021-03-11 12:03:43,457 [main] INFO logger_File - Broswer Closed
+2021-03-11 12:09:21,767 [main] INFO logger_File - Broswer opened successfully
+2021-03-11 12:09:25,343 [main] INFO logger_File - Broswer Closed
